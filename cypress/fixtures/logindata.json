@@ -1,0 +1,10 @@
+{
+    "id":"#email",
+    "password":"#password",
+    "Login":"#form_submit_btn",
+    "forgot_password":"#forgot_pswd",
+    "RecoverAccount":"#login_back",
+    "Back_to_Login":"#back_login",
+    "Error_message":"#show_message",
+    "Pannel":"div.click.panel"
+}
